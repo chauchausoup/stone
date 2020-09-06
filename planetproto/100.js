@@ -27,7 +27,7 @@ claim(cranky.capabilities, []);
 //    shared
 
 robby.parts.push('core');
-
+//Robot.capabilities.prototype.push('fly')
 
 
 
