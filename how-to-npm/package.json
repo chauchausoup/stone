@@ -1,0 +1,24 @@
+{
+  "name": "@chauchausoup/how-to-npm",
+  "version": "1.0.0",
+  "description": "A tutorial from nodeschool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna Dhakal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauchausoup/stone.git"
+  },
+  "keywords": [
+    "stone",
+    "npm",
+    "nodeschool"
+  ],
+  "bugs": {
+    "url": "https://github.com/chauchausoup/stone/issues"
+  },
+  "homepage": "https://github.com/chauchausoup/stone#readme"
+}
