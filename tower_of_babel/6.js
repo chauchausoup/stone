@@ -1,0 +1,2 @@
+//computed property in objects
+
