@@ -1,0 +1,1 @@
+var counts = your_array.reduce((map, val) => {map[val] = (map[val] || 0)+1; return map}, {} );
