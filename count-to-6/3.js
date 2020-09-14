@@ -25,3 +25,5 @@ var ob=Math.min(...userArray)
 console.log(`The minimum of [${userArray}] is ${ob}`); 
 
 // {username: "jdoe", email: "john@doe.com"}
+
+
